@@ -1,7 +1,10 @@
 //server.js is the core of our application 
 const express = require('express')
 const app = express()
+const cors = require('cors')
 const PORT = 2000
+
+app.use(cors())
 
 const artist = {
     'beyonce': {
