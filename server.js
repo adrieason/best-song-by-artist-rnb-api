@@ -32,7 +32,7 @@ const artist = {
         'age':24,
     },
     'kodak black':{
-        'song': 'Tunnel Vision',
+        'song': 'First Day Out',
         'age':25,
     },
     'unknown':{
