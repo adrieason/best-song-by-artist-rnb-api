@@ -28,6 +28,10 @@ const artist = {
         'song':'Location',
         'age':24,
     },
+    'kodak black':{
+        'song': 'Tunnel Vision',
+        'age':25,
+    },
     'unknown':{
         'song': 'unknown',
         'age':0,
